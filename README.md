@@ -18,10 +18,10 @@ If you want for instance to read a document from your Downloads folder:
     filename = "C:\Users\<your username>\Downloads\my_document.txt"
 
 ---------
-Project: Readyscript-1
-Version: v.0.1-2b
+Project: Readyscript-1<br>
+Version: v.0.1-2b<br>
 ---------
-Filename: 07.Readyscript-1.ipynb
-Author: Vera Lo
-Date: 05/05/2022
-Email: <N/A>
+Filename: 07.Readyscript-1.ipynb<br>
+Author: Vera Lo<br>
+Date: 05/05/2022<br>
+Email: <N/A><br>
