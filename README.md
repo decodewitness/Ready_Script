@@ -25,3 +25,39 @@ Filename: 07.Readyscript-1.ipynb<br>
 Author: Vera Lo<br>
 Date: 05/05/2022<br>
 Email: <N/A><br>
+
+---------<br>
+Run with Jupyter Notebook, first install Jupyter Notebook, then open our file from the Jupyter Notebook program<br>.
+<br>
+E.g.:
+
+    # To install Anaconda3 download it from the Anaconda website.
+    
+    # Install Anaconda3...
+    
+    # Then run the Anaconda Prompt from the start menu, by opening the menu, and typing the first letters of Anaconda.
+    # if installed correctly it should pop up in about 3-4 keystrokes.
+    
+    # From the Anaconda Prompt, navigate to the folder where your "07.Readyscript-1.ipynb" is located.
+    # Type the following in your Home directory, which ends with your username:
+    
+    cd Documents
+    
+    # To install Jupyter Notebook type the following:
+    pip install jupyter
+    
+    # To run Jupyter Notebook type the following:
+    jupyter notebook
+
+    # To start the program, make sure it is in the same directory you're starting Jupyter Notebook from,
+    
+    # If you have our file Ready Script-1 in your "Documents" folder, e.g.:
+    # inside: "C:/Users/Administrator/Documents/07.Readyscript.ipynb".
+    # Then you open Jupyter Notebook from "Documents", so that our script is in the same folder as where
+    # you are working.
+    
+    # Select the script from the main Jupyter Notebook window, which should open in your browser,
+    # after starting the Jupyter Notebook program.
+    
+    # Or, try pressing CTRL and the mouse on the link i.e.: (CTRL + left-mouse-button).
+    # Click on one of the bottom links in the console to open the window for Jupyter Notebook in your browser.
