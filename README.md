@@ -42,6 +42,24 @@ E.g.:
     # Type the following in your Home directory, which ends with your username:
     
     cd Documents
+    dir
+    
+    
+    # If everything is okay, you should see the script in your Documents folder, or any other folder,
+    # where you downloaded it.
+    
+    -----------
+    
+    # Switch into your Python environment, if you're using Anaconda3 Prompt.
+    # Change <workspace name> into the name of your workspace, e.g. "ml".
+    
+    conda activate <workspace name>
+    
+    # or, to switch to a workspace name called "ml", type:
+    
+    conda activate ml
+    
+    ----------
     
     # To install Jupyter Notebook type the following:
     pip install jupyter
@@ -49,12 +67,16 @@ E.g.:
     # To run Jupyter Notebook type the following:
     jupyter notebook
 
+    ----------
+    
     # To start the program, make sure it is in the same directory you're starting Jupyter Notebook from,
     
     # If you have our file Ready Script-1 in your "Documents" folder, e.g.:
     # inside: "C:/Users/Administrator/Documents/07.Readyscript.ipynb".
     # Then you open Jupyter Notebook from "Documents", so that our script is in the same folder as where
     # you are working.
+    
+    ----------
     
     # Select the script from the main Jupyter Notebook window, which should open in your browser,
     # after starting the Jupyter Notebook program.
