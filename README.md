@@ -50,20 +50,20 @@ E.g.:
     
     Example:
     ------------
-# (ml) C:\Users\user_name\Documents>dir
-# Volume in drive C has no label.
-# Volume Serial Number is 1027-DF85
+(ml) C:\Users\user_name\Documents>dir
+Volume in drive C has no label.
+Volume Serial Number is 1027-DF85
 
-# Directory of C:\Users\user_name/Documents\
+Directory of C:\Users\user_name/Documents\
 
-# 05/05/2023  10:04    <DIR>          .
-# 23/04/2023  22:57    <DIR>          ..
-# 05/05/2023  09:58    <DIR>          .ipynb_checkpoints
-# 05/05/2023  10:04            10.485 07.Readyscript-1.ipynb
-# 05/05/2023  09:53           158.422 Readyscript-1.ipynb
-# 05/05/2023  09:31           154.755 my_text_file.txt
-#               3 File(s)        323.662 bytes
-#               3 Dir(s)  55.155.699.712 bytes free
+05/05/2023  10:04    <DIR>          .
+23/04/2023  22:57    <DIR>          ..
+05/05/2023  09:58    <DIR>          .ipynb_checkpoints
+05/05/2023  10:04            10.485 07.Readyscript-1.ipynb
+05/05/2023  09:53           158.422 Readyscript-1.ipynb
+05/05/2023  09:31           154.755 my_text_file.txt
+              3 File(s)        323.662 bytes
+              3 Dir(s)  55.155.699.712 bytes free
     
     -----------
     
