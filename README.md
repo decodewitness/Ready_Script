@@ -1,4 +1,4 @@
-# ready_script
+# Readyscript-1
 
 This script will read your documents out loud.
 Change the input file which is stored in the "filename" variable, to whatever document you want to have the program read out loud.
