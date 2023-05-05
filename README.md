@@ -13,7 +13,7 @@ E.g.:
 
 
 
-If you want for instance to read a document from your Downloads folder:
+If you want for instance to read the 'my_document.txt' file and it's in your Windows Downloads folder you can use the full path like (don't forget to change <your username> to the name of your Windows user username, e.g. "Administrator"):
 
     filename = "C:\Users\<your username>\Downloads\my_document.txt"
 
