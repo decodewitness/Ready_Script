@@ -1,9 +1,11 @@
 # Readyscript-1
 
 To start use Jupyter Notebook, or:
+
     python ready_script.py
 
 (First install all required libraries)
+
 python -m pip install <the_library_name_to_install_here>
 
 This script will read your documents out loud.
